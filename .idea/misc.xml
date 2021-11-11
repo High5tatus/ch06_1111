@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ch06_1111/app/src/main/res/layout/activity_main.xml" value="0.13247213779128672" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ch06_1111/app/src/main/res/layout/ch06_10.xml" value="0.13956433637284701" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ch06_1111/app/src/main/res/layout/ch06_12.xml" value="0.13956433637284701" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ch06_1111/app/src/main/res/layout/ch06_13.xml" value="0.13956433637284701" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ch06_1111/app/src/main/res/layout/ch06_14.xml" value="0.13956433637284701" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ch06_1111/app/src/main/res/layout/ch06_15.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ch06_1111/app/src/main/res/layout/ch06_17.xml" value="0.15" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ch06_1111/app/src/main/res/layout/ch06_test_01.xml" value="0.1515625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ch06_1111/app/src/main/res/layout/ch06_test_02.xml" value="0.1515625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
